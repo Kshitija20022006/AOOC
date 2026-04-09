@@ -81,7 +81,7 @@ class Programmer extends Employee1 {
     }
 }
 
-// Test Class
+
 public class CompanyTest {
 
     public static void main(String[]
